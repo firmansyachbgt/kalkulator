@@ -1,0 +1,13 @@
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.KalkulatorFirman.resources
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\1531143003_MuhammadNazirFirmansyah.vbproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\acer\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\acer\Documents\Visual Studio 2008\Projects\1531143003_Muhammad Nazir Firmansyah\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\acer\Documents\Visual Studio 2008\Projects\1531143003_Muhammad Nazir Firmansyah\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\acer\Documents\Visual Studio 2008\Projects\1531143003_Muhammad Nazir Firmansyah\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
